@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="39f1d932-58ee-4cb3-819b-a94abd9e7700" name="svetgymnastiky.cz" url="http://ftp.svetgymnastiky.cz">
+        <fileTransfer host="ftp.svetgymnastiky.cz" port="21" username="jirikoutny.cz">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
